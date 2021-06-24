@@ -1,0 +1,8 @@
+@import "reset.css";
+@import "header.css";
+@import "content.css";
+@import "img.css";
+
+body {
+    background-color:brown;
+}

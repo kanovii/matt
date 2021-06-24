@@ -2,6 +2,7 @@
 @import "header.css";
 @import "content.css";
 @import "img.css";
+@import "foodImg.css";
 
 body {
     background-color:brown;

@@ -16,8 +16,20 @@
     }
 }
 #seafood_img {
-    background-image: url(../img/seafood.png);
+    background-image: url(./../img/seafood.png);
 }
 #koreanfood_img {
-    background-image: url(../img/koreanfood.png);
+    background-image: url(./../img/koreanfood.png);
+}
+#pizza_img {
+    background-image: url(./../img/pizza.png);
+}
+#sushi_img {
+    background-image: url(./../img/sushi.png);
+}
+#chicken_img {
+    background-image: url(./../img/chicken.png);
+}
+#ham_img {
+    background-image: url(./../img/ham.png);
 }

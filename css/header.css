@@ -11,6 +11,8 @@
     align-items: center;
 
     transition: 0.5s ease-in-out;
+
+    z-index: 50;
 }
 .hidden_header {
     width: 100vw;
@@ -25,6 +27,8 @@
     align-items: center;
 
     transition: 0.5s ease-in-out;
+
+    z-index: 50;
 
 }
 

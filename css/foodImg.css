@@ -1,0 +1,16 @@
+.food_img {
+    width: 400px;
+    height: 400px;
+
+    background-position: center;
+    background-size: contain;
+}
+@media(max-width: 768px) {
+    .food_img {
+        width: 200px;
+        height: 200px;
+    }
+}
+#sea1 {
+    background-image: url(./../img/sea1.jpg);
+}
